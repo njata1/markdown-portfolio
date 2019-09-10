@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Apple Juice :apple:
+- Cookies :cookie:
+- Video Games :tv:
